@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # McAfee Security Analyzer
 
 🛡️ **Professional Flutter-based Message Security Analyzer**
@@ -168,3 +169,7 @@ This project is developed for portfolio and interview demonstration purposes.
 ---
 
 🔒 **Built with security in mind. Protecting digital communications one message at a time.**
+=======
+# security-analyzer
+Professional Flutter-based Message Security Analyzer - Real-time threat detection for spam, phishing, and malware
+>>>>>>> 6640b409cc448bc96f779b1a01fd2b65d057d823
