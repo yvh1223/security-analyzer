@@ -3,8 +3,7 @@ name: Deploy Flutter Web to GitHub Pages
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
@@ -19,6 +18,9 @@ jobs:
       with:
         flutter-version: '3.24.5'
         channel: 'stable'
+        
+    - name: Flutter doctor
+      run: flutter doctor -v
         
     - name: Get dependencies
       run: flutter pub get
