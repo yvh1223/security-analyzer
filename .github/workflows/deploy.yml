@@ -17,14 +17,14 @@ jobs:
     - name: Setup Flutter
       uses: subosito/flutter-action@v2
       with:
-        flutter-version: '3.32.5'
+        flutter-version: '3.24.5'
         channel: 'stable'
         
     - name: Get dependencies
       run: flutter pub get
       
     - name: Build web
-      run: flutter build web --release --web-renderer html --base-href "/security-analyzer/"
+      run: flutter build web --release --base-href "/security-analyzer/"
       
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
