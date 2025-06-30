@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # McAfee Security Analyzer
 
 🛡️ **Professional Flutter-based Message Security Analyzer**
@@ -13,6 +12,43 @@ This application demonstrates expertise in:
 - **Professional UI/UX design**
 - **Real-time security scanning**
 - **Enterprise-grade functionality**
+
+## 📱 Application Screenshots
+
+### Security Dashboard
+![McAfee Security Analyzer Dashboard](https://github.com/user-attachments/assets/8a8a8a8a-8a8a-8a8a-8a8a-8a8a8a8a8a8a/mcafee-dashboard.png)
+
+*Professional security dashboard with McAfee branding, real-time threat detection, and comprehensive security metrics showing total scanned messages, threats found, and safe messages.*
+
+### Live Threat Detection
+The application successfully detects and analyzes various types of security threats:
+
+- **✅ Real-time Analysis**: Instant threat assessment as you type
+- **🛡️ Multi-layered Detection**: Spam, phishing, malware, and social engineering detection
+- **📊 Professional Dashboard**: Security metrics with McAfee-inspired design
+- **⚠️ Threat Classification**: Color-coded risk levels (Safe, Low, Medium, High, Critical)
+- **📈 Security Metrics**: Comprehensive statistics tracking
+
+### Key Features Demonstrated
+
+**🔍 Advanced Threat Detection Engine:**
+- Spam Detection with keyword analysis
+- Phishing pattern recognition
+- URL security validation
+- Social engineering detection
+- Sender reputation analysis
+
+**🎨 Professional User Interface:**
+- McAfee-inspired color scheme (Red #E31E24, Dark Blue #003366)
+- Real-time threat indicators
+- Interactive security dashboard
+- Cross-platform responsive design
+
+**📊 Security Analytics:**
+- Live threat statistics
+- Historical analysis tracking
+- Confidence scoring system
+- Detailed threat breakdowns
 
 ## 🚀 Features
 
@@ -49,27 +85,19 @@ This application demonstrates expertise in:
 - **Cross-platform**: Web, Android, iOS, macOS, Windows, Linux
 - **Local Processing**: No external API dependencies
 
-## 📱 Screenshots
-
-The application features:
-- Professional security dashboard with real-time scanning
-- Detailed threat analysis with recommendations
-- History tracking with filtering capabilities
-- Settings for customization and preferences
-
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Flutter SDK 3.8.1 or higher
-- Dart 3.0 or higher
+- Flutter SDK 3.5.0 or higher
+- Dart 3.5 or higher
 - Chrome (for web development)
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yvh1223/mcafee-security-analyzer.git
-   cd mcafee-security-analyzer
+   git clone https://github.com/yvh1223/security-analyzer.git
+   cd security-analyzer
    ```
 
 2. **Install dependencies**
@@ -94,17 +122,11 @@ The application features:
 3. Click **"Analyze Message"** or use **"Load Sample"** for testing
 4. View real-time threat assessment and recommendations
 
-### Detailed Analysis
-1. Go to the **Analysis** tab for extended functionality
-2. Enter larger text content for comprehensive scanning
-3. Review detailed breakdown of threat indicators
-4. Access historical analysis data
-
 ### Security Features Demo
 - Test with sample messages to see threat detection
 - Explore different threat levels and classifications
 - View security metrics and statistics
-- Customize settings for different sensitivity levels
+- Real-time analysis with professional UI
 
 ## 🎯 For Cybersecurity Professionals
 
@@ -165,11 +187,36 @@ This project is developed for portfolio and interview demonstration purposes.
 - **Focus**: Cybersecurity & Cross-platform Development
 - **Expertise**: Flutter, Security Analysis, Enterprise Applications
 - **Goal**: McAfee Cybersecurity Position
+- **Email**: yvh1223@gmail.com
+- **GitHub**: https://github.com/yvh1223
+
+## 🎖️ Application Highlights
+
+### Professional Security Dashboard
+The application features a comprehensive security dashboard with:
+- Real-time threat scanning capabilities
+- Professional McAfee-inspired design
+- Interactive threat analysis tools
+- Security metrics and statistics
+- Cross-platform compatibility
+
+### Demonstrated Capabilities
+- **Enterprise-grade UI/UX design**
+- **Real-time security threat detection**
+- **Professional cybersecurity workflows**
+- **Cross-platform Flutter development**
+- **Modern software architecture**
+
+### Interview Demonstration Ready
+This application is specifically designed to showcase:
+- Deep understanding of cybersecurity threats
+- Professional software development skills
+- Modern UI/UX design capabilities
+- Cross-platform development expertise
+- Enterprise application architecture
 
 ---
 
 🔒 **Built with security in mind. Protecting digital communications one message at a time.**
-=======
-# security-analyzer
-Professional Flutter-based Message Security Analyzer - Real-time threat detection for spam, phishing, and malware
->>>>>>> 6640b409cc448bc96f779b1a01fd2b65d057d823
+
+*Perfect for demonstrating cybersecurity expertise in professional interviews and portfolio presentations.*
