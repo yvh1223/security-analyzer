@@ -16,11 +16,9 @@ dependencies:
   
   # Networking & HTTP
   http: ^1.2.2
-  dio: ^5.7.0
   
   # Regular Expressions & Text Analysis
   string_validator: ^1.1.0
-  html: ^0.15.5
   
   # URL Validation & Security
   url_launcher: ^6.3.1
@@ -34,27 +32,14 @@ dependencies:
   
   # Local Storage & Persistence
   shared_preferences: ^2.3.4
-  sqflite: ^2.4.1
-  path: ^1.9.0
-  
-  # JSON & Data Processing
-  json_annotation: ^4.9.0
-  
-  # Charts & Analytics
-  fl_chart: ^0.70.1
   
   # Date & Time
   intl: ^0.20.1
-  
-  # File Operations
-  file_picker: ^8.1.4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-  json_serializable: ^6.8.0
-  build_runner: ^2.4.13
 
 flutter:
   uses-material-design: true
